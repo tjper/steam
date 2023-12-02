@@ -1,4 +1,4 @@
-module github.com/Philipp15b/go-steam/v3
+module github.com/tjper/steam
 
 go 1.16
 
