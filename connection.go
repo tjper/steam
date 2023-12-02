@@ -9,8 +9,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/Philipp15b/go-steam/v3/cryptoutil"
-	"github.com/Philipp15b/go-steam/v3/protocol"
+	"github.com/tjper/steam/cryptoutil"
+	"github.com/tjper/steam/protocol"
 )
 
 type connection interface {

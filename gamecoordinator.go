@@ -3,10 +3,10 @@ package steam
 import (
 	"bytes"
 
-	"github.com/Philipp15b/go-steam/v3/protocol"
-	"github.com/Philipp15b/go-steam/v3/protocol/gamecoordinator"
-	"github.com/Philipp15b/go-steam/v3/protocol/protobuf"
-	"github.com/Philipp15b/go-steam/v3/protocol/steamlang"
+	"github.com/tjper/steam/protocol"
+	"github.com/tjper/steam/protocol/gamecoordinator"
+	"github.com/tjper/steam/protocol/protobuf"
+	"github.com/tjper/steam/protocol/steamlang"
 	"google.golang.org/protobuf/proto"
 )
 
